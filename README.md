@@ -1,13 +1,13 @@
-# ¡Hola! Soy Sofía 👋
-🎓 Estudiante de Ingeniería Biomédica (Universidad de Alicante)  
-💡 Interesada en: bioinformática, IA aplicada a salud, análisis de datos médicos.  
+# ¡Hola! Soy Antonio 👋
+🎓 Profesor de Matemáticas (IES Cristóbal Lozano)  
+💡 Interesada en: Geogebra, Robótica, IA.  
 🚀 Actualmente: desarrollando proyectos en Python para mi portafolio.  
 
 ## 🔬 Mis proyectos destacados
-- 🧠 [Análisis de EEG con Python](link)
-- 📊 [Procesamiento de imágenes médicas](link)
-- 🤖 [Clasificador de señales biomédicas con IA](link)
+- 🧠 [Proyecto1](www.google.es)
+- 📊 [Proyecto2](www.google.es)
+
 
 ## 📫 Contacto
-- LinkedIn: [Sofía García Guerrero](link)  
-- Email: sofiagarciabiomed@gmail.com
+- LinkedIn: [Antonio García Paredes](enlace)  
+- Email: agarcia.paredes2025@gmail.com
