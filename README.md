@@ -4,7 +4,7 @@
 🚀 Actualmente: desarrollando proyectos en Python para mi portafolio.  
 
 ## 🔬 Mis proyectos destacados
-- 🧠 [Proyecto1](www.google.es)
+- 🧠 [Proyecto1](https://www.orientacionandujar.es/2024/05/02/ejemplos-de-pruebas-de-diagnostico-2o-eso-andalucia-2024/)
 - 📊 [Proyecto2](www.google.es)
 
 
