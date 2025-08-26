@@ -1,16 +1,13 @@
-## Hi there 👋
+# ¡Hola! Soy Sofía 👋
+🎓 Estudiante de Ingeniería Biomédica (Universidad de Alicante)  
+💡 Interesada en: bioinformática, IA aplicada a salud, análisis de datos médicos.  
+🚀 Actualmente: desarrollando proyectos en Python para mi portafolio.  
 
-<!--
-**agarciaparedesmat/agarciaparedesmat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔬 Mis proyectos destacados
+- 🧠 [Análisis de EEG con Python](link)
+- 📊 [Procesamiento de imágenes médicas](link)
+- 🤖 [Clasificador de señales biomédicas con IA](link)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contacto
+- LinkedIn: [Sofía García Guerrero](link)  
+- Email: sofiagarciabiomed@gmail.com
